@@ -126,28 +126,28 @@ pipeline {
 
 ## 💬 Interview Question Answers (Short & Clear)
 
-# What is Jenkins?
+### What is Jenkins?
 Jenkins is an open-source automation server used to build, test, and deploy software via pipelines or jobs.
 
-# How do you create a Jenkins job?
+### How do you create a Jenkins job?
 Go to “New Item”, enter a name, choose job type (e.g., Freestyle), configure SCM/build, and save.
 
-# What is Maven used for?
+### What is Maven used for?
 Maven is a build automation tool used primarily for Java projects to manage dependencies and build lifecycle.
 
-# How does Jenkins use Maven?
+### How does Jenkins use Maven?
 Jenkins calls Maven to compile code, run tests, and package artifacts through defined goals like clean install.
 
-# Difference between compile and package in Maven?
+### Difference between compile and package in Maven?
 
 compile: Compiles source code.
 
 package: Compiles and creates a distributable JAR/WAR file.
 
-# Where do you configure tools in Jenkins?
+### Where do you configure tools in Jenkins?
 Go to Manage Jenkins → Global Tool Configuration.
 
-# How do you debug a failed Jenkins build?
+### How do you debug a failed Jenkins build?
 Check Console Output, look at error messages, verify tool paths, and test commands locally.
 
 
