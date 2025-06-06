@@ -120,7 +120,7 @@ pipeline {
 
 ## 🖼️ Build Success Screenshot
 
-![Jenkins Build Success](screenshots/suceesfully build.png)
+![Jenkins Build Success](screenshots/suceesfullybuild.png)
 
 ---
 
