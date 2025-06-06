@@ -118,9 +118,9 @@ pipeline {
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Build Success Screenshot
 
-> 📸 Add your Jenkins **Console Output** screenshot here showing `BUILD SUCCESS`.
+![Jenkins Build Success](screenshots/build-success.png)
 
 ---
 
